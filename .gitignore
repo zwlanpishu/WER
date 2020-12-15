@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+audios/*
+demo/
+models_cn/*
+models_en/*
+venv/

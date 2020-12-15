@@ -1,0 +1,3 @@
+tensorflow
+jiwer
+deepspeech==0.9.3
